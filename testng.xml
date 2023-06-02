@@ -3,13 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Rest_API_Requests.PutRequestByHashmap"/>
+      
+      <class name="Rest_API_Requests.GetRequest"/>
       <class name="Rest_API_Requests.PostRequest"/>
       <class name="Rest_API_Requests.PutRequest"/>
       <class name="Rest_API_Requests.DeleteRequest"/>
-      <class name="Rest_API_Requests.GetRequest"/>
-      <class name="Rest_API_Requests.GetAllRequests"/>
-      <class name="Rest_API_Requests.PutRequestByTestNG"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
