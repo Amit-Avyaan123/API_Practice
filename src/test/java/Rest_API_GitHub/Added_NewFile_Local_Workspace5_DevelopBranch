@@ -2,9 +2,5 @@ New file 4 is added on 12th June in local workspace
 Push the same file in GitHub repository
 Updated this line in GitRepository
 Added new line again
-<<<<<<< HEAD
 Updated by developer 1
 Updated by developer 2
-=======
-
->>>>>>> develop2
